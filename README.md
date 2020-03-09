@@ -8,7 +8,7 @@ functionality.
 All credits go to the original author of the ChangeVolume function, [Sayyed Mostafa Hashemi from codeproject.com](https://www.codeproject.com/Tips/233484/Change-Master-Volume-in-Visual-Cplusplus)
 
 ## Usage
-This just runs an executable with arguments.
+Runs the [executable](https://github.com/rahmedd/Windows-Volume-Control/releases) with percentage as an argument.
 
 Command Prompt:
 ```python
