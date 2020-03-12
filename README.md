@@ -12,7 +12,7 @@ Runs the [executable](https://github.com/rahmedd/Windows-Volume-Control/releases
 
 Command Prompt:
 ```python
-volcontrol.exe 35
+volctrl.exe 35
 ```
 Python 3:
 ```python
@@ -20,7 +20,7 @@ import subprocess
 
 percentage = 0
 for i in range(3):
-	subprocess.run("volcontrol.exe " + str(percentage), shell=True)
+	subprocess.run("volctrl.exe " + str(percentage), shell=True)
 	percentage += 10 #increases volume by 10%
 ```
 ## Compiling
